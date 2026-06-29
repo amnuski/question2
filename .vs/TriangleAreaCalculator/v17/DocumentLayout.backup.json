@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nuski\\Downloads\\Assessment 5-2\\Assessment 5-2\\TriangleAreaCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|c:\\users\\nuski\\downloads\\assessment 5-2\\assessment 5-2\\triangleareacalculator\\triangleareacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|solutionrelative:triangleareacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|C:\\Users\\Nuski\\Downloads\\Assessment 5-2\\Assessment 5-2\\TriangleAreaCalculator\\triangleareacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|solutionrelative:triangleareacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|c:\\users\\nuski\\downloads\\assessment 5-2\\assessment 5-2\\triangleareacalculator\\triangleareacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|C:\\Users\\Nuski\\Downloads\\Assessment 5-2\\Assessment 5-2\\TriangleAreaCalculator\\triangleareacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|solutionrelative:triangleareacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|c:\\users\\nuski\\downloads\\assessment 5-2\\assessment 5-2\\triangleareacalculator\\triangleareacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|solutionrelative:triangleareacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|c:\\users\\nuski\\downloads\\assessment 5-2\\assessment 5-2\\triangleareacalculator\\triangleareacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC79EDE1-FF7F-4D14-9A95-36A147AF1834}|TriangleAreaCalculator\\TriangleAreaCalculator.csproj|solutionrelative:triangleareacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Nuski\\Downloads\\Assessment 5-2\\Assessment 5-2\\TriangleAreaCalculator\\TriangleAreaCalculator\\Form1.cs",
               "RelativeDocumentMoniker": "TriangleAreaCalculator\\Form1.cs",
               "ToolTip": "C:\\Users\\Nuski\\Downloads\\Assessment 5-2\\Assessment 5-2\\TriangleAreaCalculator\\TriangleAreaCalculator\\Form1.cs*",
               "RelativeToolTip": "TriangleAreaCalculator\\Form1.cs*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAcwC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-29T12:14:27.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Nuski\\Downloads\\Assessment 5-2\\Assessment 5-2\\TriangleAreaCalculator\\TriangleAreaCalculator\\Form1.cs",
               "RelativeDocumentMoniker": "TriangleAreaCalculator\\Form1.cs",

@@ -35,6 +35,9 @@
             this.txtBase = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btnCalculate = new System.Windows.Forms.Button();
+            this.btnhistory = new System.Windows.Forms.Button();
+            this.clear = new System.Windows.Forms.Button();
+            this.showHistorey = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // txtHeight
@@ -49,7 +52,7 @@
             // 
             this.lblResult.AutoSize = true;
             this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResult.Location = new System.Drawing.Point(56, 204);
+            this.lblResult.Location = new System.Drawing.Point(56, 224);
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(43, 20);
             this.lblResult.TabIndex = 4;
@@ -95,7 +98,7 @@
             // btnCalculate
             // 
             this.btnCalculate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalculate.Location = new System.Drawing.Point(147, 112);
+            this.btnCalculate.Location = new System.Drawing.Point(60, 149);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(115, 51);
             this.btnCalculate.TabIndex = 3;
@@ -103,11 +106,44 @@
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
+            // btnhistory
+            // 
+            this.btnhistory.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnhistory.Location = new System.Drawing.Point(302, 149);
+            this.btnhistory.Name = "btnhistory";
+            this.btnhistory.Size = new System.Drawing.Size(115, 51);
+            this.btnhistory.TabIndex = 10;
+            this.btnhistory.Text = "History";
+            this.btnhistory.UseVisualStyleBackColor = true;
+            this.btnhistory.Click += new System.EventHandler(this.btnhistory_Click_1);
+            // 
+            // clear
+            // 
+            this.clear.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.clear.Location = new System.Drawing.Point(181, 149);
+            this.clear.Name = "clear";
+            this.clear.Size = new System.Drawing.Size(115, 51);
+            this.clear.TabIndex = 11;
+            this.clear.Text = "clear";
+            this.clear.UseVisualStyleBackColor = true;
+            this.clear.Click += new System.EventHandler(this.clear_Click);
+            // 
+            // showHistorey
+            // 
+            this.showHistorey.FormattingEnabled = true;
+            this.showHistorey.Location = new System.Drawing.Point(277, 36);
+            this.showHistorey.Name = "showHistorey";
+            this.showHistorey.Size = new System.Drawing.Size(260, 95);
+            this.showHistorey.TabIndex = 12;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(311, 310);
+            this.ClientSize = new System.Drawing.Size(611, 310);
+            this.Controls.Add(this.showHistorey);
+            this.Controls.Add(this.clear);
+            this.Controls.Add(this.btnhistory);
             this.Controls.Add(this.txtHeight);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.Area);
@@ -131,6 +167,9 @@
         private System.Windows.Forms.TextBox txtBase;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnCalculate;
+        private System.Windows.Forms.Button btnhistory;
+        private System.Windows.Forms.Button clear;
+        private System.Windows.Forms.ListBox showHistorey;
     }
 }
 

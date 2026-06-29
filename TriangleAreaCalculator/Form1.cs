@@ -45,8 +45,33 @@ namespace TriangleAreaCalculator
             // Calculate and show area
             double area = 0.5 * baseValue * heightValue;
             lblResult.Text = "Area: " + area.ToString("F2");
+
+            // Add to history
+            string record = "Base=" + baseValue + ", Height=" + heightValue + ", Area=" + area.ToString("F2");
+            history.Add(record);
         }
 
+        // Store history of calculations
+        private List<string> history = new List<string>();
 
+
+        private void clear_Click(object sender, EventArgs e)
+        {
+            txtBase.Clear();
+            txtHeight.Clear();
+            lblResult.Text = "";
+            showHistorey.Items.Clear();
+
+        }
+
+        private void btnhistory_Click_1(object sender, EventArgs e)
+        {
+            showHistorey.Items.Clear();
+            foreach (var item in history)
+            {
+                showHistorey.Items.Add(item);
+            }
+
+        }
     }
 }
