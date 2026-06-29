@@ -1,0 +1,18 @@
+E:\UCJ\2025\Exams\SCM Assessment 5-2\SCM Assessment 5\TriangleAreaCalculator\TriangleAreaCalculator\bin\Debug\TriangleAreaCalculator.exe.config
+E:\UCJ\2025\Exams\SCM Assessment 5-2\SCM Assessment 5\TriangleAreaCalculator\TriangleAreaCalculator\bin\Debug\TriangleAreaCalculator.exe
+E:\UCJ\2025\Exams\SCM Assessment 5-2\SCM Assessment 5\TriangleAreaCalculator\TriangleAreaCalculator\bin\Debug\TriangleAreaCalculator.pdb
+E:\UCJ\2025\Exams\SCM Assessment 5-2\SCM Assessment 5\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.Form1.resources
+E:\UCJ\2025\Exams\SCM Assessment 5-2\SCM Assessment 5\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.Properties.Resources.resources
+E:\UCJ\2025\Exams\SCM Assessment 5-2\SCM Assessment 5\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.csproj.GenerateResource.Cache
+E:\UCJ\2025\Exams\SCM Assessment 5-2\SCM Assessment 5\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.exe
+E:\UCJ\2025\Exams\SCM Assessment 5-2\SCM Assessment 5\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.pdb
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\bin\Debug\TriangleAreaCalculator.exe.config
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\bin\Debug\TriangleAreaCalculator.exe
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\bin\Debug\TriangleAreaCalculator.pdb
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.Form1.resources
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.Properties.Resources.resources
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.csproj.GenerateResource.cache
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.exe
+C:\Users\Nuski\Downloads\Assessment 5-2\Assessment 5-2\TriangleAreaCalculator\TriangleAreaCalculator\obj\Debug\TriangleAreaCalculator.pdb
